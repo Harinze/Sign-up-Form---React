@@ -1,0 +1,44 @@
+p{
+    color: blue;
+    background-color: white;
+}
+form
+{
+    padding: 2px;
+    text-align: left;
+    font-family: Arial;
+    color: black;
+}
+h1{
+    color: black;
+}
+option{
+    color: purple;
+}
+select{
+    color: blue;
+}
+
+body 
+{
+  background-color: lightgrey;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+    
+}
+div {
+  width: 500px;
+  padding: 1px;
+  box-sizing: border-box;
+}
+input {
+  color: blue;
+  padding: 10px 15px;
+  margin: 6px 0;
+  box-sizing: border-box;
+}
+
+
+
